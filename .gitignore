@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+.venv/
+venv/
+*.pyc
+*.pyo
+
+# Model file (too large for GitHub)
+model.h5
+*.h5
+*.keras
+
+# Node
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# Misc
+.env
+*.log
